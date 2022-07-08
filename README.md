@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer/Engineer
 ---------------------------------
 
-I'm a web developer and software engineer with an extensive background in mortgage industry. After extensive period of guiding families achieve their dream homes, I've transitioned to a full-stack software engineer with substantial experience in JS, React, Node.js, HTML, Git, Express, SQL, Heroku, and many other web technologies. This door provides me the sense of achievement I've never experienced in my life. Full-stack software development provides me the creativity I am interested in and logic problem solving skills I've developed from my banking experiences. I’m currently seeking a full stack position where I can continue developing as an engineer. During my spare time I enjoy boulder climbing, tennis, lifting weights, cooking (especially food photography), anime, manga, games, and horror movies. I’m always seeking for new challenges, currently leveling up my JavaScript and app development. Let’s connect!
+I'm a web developer and software engineer with an extensive background in mortgage industry. 
+
+After extensive period of guiding families achieve their dream homes, I've transitioned to a full-stack software engineer with substantial experience in JS, React, Node.js, HTML, Git, Express, SQL, Heroku, and many other web technologies. 
+
+This door provides me the sense of achievement I've never experienced in my life. Full-stack software development provides me the creativity I am interested in and logic problem solving skills I've developed from my banking experiences. I’m currently seeking a full stack position where I can continue to develop and ease the interface for the users.
+
+During my spare time I enjoy boulder climbing, tennis, lifting weights, cooking (especially food photography), anime, manga, games, and horror movies. I’m always seeking for new challenges, currently leveling up my JavaScript and app development. Let’s connect!
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [byeungis@gmail.com](mailto:byeungis@gmail.com)
