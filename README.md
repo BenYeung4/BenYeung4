@@ -6,7 +6,7 @@ Full Stack Web Developer/Engineer
 
 I'm a web developer and software engineer with an extensive background in mortgage industry. 
 
-After extensive period of guiding families achieve their dream homes, I've transitioned to a full-stack software engineer with substantial experience in JS, React, Node.js, HTML, Git, Express, SQL, Heroku, and many other web technologies. 
+After extensive period of guiding families achieve their dream homes, I've transitioned to a full-stack software engineer with substantial experience in JavaScript, React, Node.js, HTML, Git, Express, SQL, Heroku, and many other web technologies. 
 
 This door provides me the sense of achievement I've never experienced in my life. Full-stack software development provides me the creativity I am interested in and logic problem solving skills I've developed from my banking experiences. I’m currently seeking a full stack position where I can continue to develop and ease the interface for the users.
 
